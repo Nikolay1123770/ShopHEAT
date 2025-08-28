@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": "premium",
+      "name": "Premium Software",
+      "price": 1000,
+      "file": "/premium.zip",
+      "keys": [
+        "PREM-1234-5678-AAAA",
+        "PREM-4321-8765-BBBB"
+      ]
+    },
+    {
+      "id": "lite",
+      "name": "Lite Software",
+      "price": 500,
+      "file": "/lite.zip",
+      "keys": [
+        "LITE-1111-2222-CCCC",
+        "LITE-3333-4444-DDDD"
+      ]
+    }
+  ]
+}

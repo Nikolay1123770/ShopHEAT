@@ -1,0 +1,23 @@
+{
+  "methods": [
+    {
+      "id": "sber",
+      "name": "Сбербанк",
+      "type": "card",
+      "active": true,
+      "details": {
+        "card_number": "2202208307028754",
+        "receiver": "Данил Алексеевич"
+      }
+    },
+    {
+      "id": "crypto",
+      "name": "USDT (TRC20)",
+      "type": "crypto",
+      "active": true,
+      "details": {
+        "wallet": "TL9x1234abcd5678efgh9012ijkl3456mnop7890"
+      }
+    }
+  ]
+}
